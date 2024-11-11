@@ -13,6 +13,8 @@ class WPT_Production {
 	public $map_iframe;
 	public $permalink;
 	public $season;
+	public $summary;
+	public $excerpt;
 
 	// @codingStandardsIgnoreStart
 	function __construct( $ID = false ) {
