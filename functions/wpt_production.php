@@ -13,6 +13,7 @@ class WPT_Production {
 	public $map_iframe;
 	public $permalink;
 	public $season;
+	public $content;
 	public $summary;
 	public $excerpt;
 
